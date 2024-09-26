@@ -2,4 +2,4 @@
 
 ### Participantes
 
-- Paulo Igor
+- Paulo
