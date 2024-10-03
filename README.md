@@ -4,3 +4,5 @@
 
 - Paulo Igor
 - Lourenço
+- Fulano
+- Renan
