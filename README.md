@@ -3,5 +3,3 @@
 ### Participantes
 
 - Paulo Igor
-- Lourenco
-- Fulano
