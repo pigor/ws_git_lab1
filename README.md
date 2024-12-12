@@ -2,6 +2,7 @@
 
 ### Participantes
 
-- Paulo Igor
+- Paulo Igor Godinho
+- Leo
 - Tiago Jatahy Danin
-- leonardo estevam
+- Marden
