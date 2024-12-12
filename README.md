@@ -3,5 +3,5 @@
 ### Participantes
 
 - Paulo Igor
-- Tiago Danin
+- Tiago Jatahy Danin
 - leonardo estevam
