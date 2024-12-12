@@ -2,7 +2,3 @@
 
 ### Participantes
 
-- Paulo Igor
-- Leo
-- Tiago
-- Marden
