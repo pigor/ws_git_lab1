@@ -3,5 +3,6 @@
 ### Participantes
 
 - Paulo Igor
-- Lourenço
-- Renan
+- Leo
+- Tiago
+- Marden
